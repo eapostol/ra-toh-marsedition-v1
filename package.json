@@ -1,0 +1,30 @@
+{
+  "name": "ra-toh-marsedition-v1",
+  "version": "1.0.0",
+  "description": "For Red Academy - Tour Of Heroes migrated to Mars Project #5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eapostol/ra-toh-marsedition-v1.git"
+  },
+  "keywords": [
+    "Angular",
+    "2",
+    "Tour",
+    "of",
+    "Heroes",
+    "Red",
+    "Academy",
+    "Mars",
+    "Project"
+  ],
+  "author": "Edward J. Apostol <edward.apostol@redacademy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eapostol/ra-toh-marsedition-v1/issues"
+  },
+  "homepage": "https://github.com/eapostol/ra-toh-marsedition-v1#readme"
+}
